@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lakhaninaail
+- 👀 I’m interested in math, physics, algorithms, and natural language processing
+- 📫 You can reach me at naail@mit.edu
