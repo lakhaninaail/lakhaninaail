@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lakhaninaail
-- 👀 I’m interested in statistics, probability theory, algorithms, and natural language processing
+- 👀 I’m interested in math, statistics, computer vision, and systems
 - 📫 You can reach me at naail@mit.edu
