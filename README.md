@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @lakhaninaail
-- 📫 You can reach me at naail@mit.edu
+
